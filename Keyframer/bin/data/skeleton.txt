@@ -1,0 +1,16 @@
+create -joint joint2 -rotate <0.000000, -3.188877, 0.000000> -translate <0.259807, 7.144710, 0.000000>
+create -joint joint9 -rotate <0.000000, 0.000000, 180.028519> -translate <0.000000, 1.997205, 0.000000> -parent joint2
+create -joint joint11 -rotate <0.000000, 0.000000, 0.000000> -translate <0.000000, 0.000000, 0.000000> -parent joint9
+create -joint joint19 -rotate <0.000000, 0.000000, 0.000000> -translate <0.000000, 0.000000, 0.000000> -parent joint11
+create -joint joint16 -rotate <0.000000, 26.476217, -121.783531> -translate <0.000000, 0.000000, 0.000000> -parent joint11
+create -joint joint17 -rotate <0.000000, 0.000000, -27.648930> -translate <0.000000, 0.000000, 0.000000> -parent joint16
+create -joint joint18 -rotate <0.000000, 0.000000, -31.597717> -translate <0.000000, 0.000000, 0.000000> -parent joint17
+create -joint joint12 -rotate <0.000000, 27.282320, 126.693489> -translate <0.000000, 0.000000, 0.000000> -parent joint11
+create -joint joint14 -rotate <0.000000, 0.000000, 21.546511> -translate <0.000000, 0.000000, 0.000000> -parent joint12
+create -joint joint15 -rotate <0.000000, 0.000000, 27.922394> -translate <0.000000, 0.000000, 0.000000> -parent joint14
+create -joint joint4 -rotate <0.000000, 47.408092, 46.765385> -translate <0.000000, 0.000000, 0.000000> -parent joint2
+create -joint joint5 -rotate <0.000000, 0.000000, -23.382725> -translate <0.000000, 0.000000, 0.000000> -parent joint4
+create -joint joint6 -rotate <0.000000, 0.000000, -16.360350> -translate <0.000000, 0.000000, 0.000000> -parent joint5
+create -joint joint3 -rotate <0.000000, 45.304264, -49.363430> -translate <0.000000, 0.000000, 0.000000> -parent joint2
+create -joint joint7 -rotate <0.000000, 0.000000, 25.980764> -translate <0.000000, 0.000000, 0.000000> -parent joint3
+create -joint joint8 -rotate <0.000000, 0.000000, 12.990366> -translate <0.000000, 0.000000, 0.000000> -parent joint7
