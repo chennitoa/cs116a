@@ -1,0 +1,14 @@
+# Build Tools
+**/obj/
+**/Makefile
+**/*.make
+**/*.qbs
+
+# Zipfiles
+**/*.zip
+
+# VSCode Configurations
+**/.vscode/
+
+# Executables
+**/*.exe
